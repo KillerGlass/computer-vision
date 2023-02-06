@@ -4,7 +4,7 @@ images/
 training/
 Training/
 base_crop-20230107T225235Z-001/
-kmeans/
-niblack/
-otsu/
-ultrassound/
+segmentação/kmeans/
+segmentação/niblack/
+segmentação/otsu/
+segmentação/ultrassound/
